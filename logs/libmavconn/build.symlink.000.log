@@ -1,0 +1,5 @@
+Symlinking /home/burlion/catkin_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/burlion/catkin_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/burlion/catkin_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/burlion/catkin_ws/devel/lib/libmavconn.so
+Symlinking /home/burlion/catkin_ws/devel/lib/pkgconfig/libmavconn.pc
